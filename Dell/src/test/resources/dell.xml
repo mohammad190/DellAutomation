@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dell" parallel="tests">
+
+    <test name="DellFeatures">
+        <parameter name="browserName" value="chrome"/>
+        <parameter name="os" value="win"/>
+        <parameter name="url" value="http://www.dell.com/en-us/#"/>
+        <classes>
+            <class name="Test.TestHomePageFea"></class>
+            <class name="Test.TestSearchOption"></class>
+
+        </classes>
+    </test>
+</suite>

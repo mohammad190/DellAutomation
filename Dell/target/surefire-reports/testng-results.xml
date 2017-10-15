@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dell" duration-ms="138553" started-at="2017-10-15T02:03:41Z" finished-at="2017-10-15T02:06:00Z">
+    <groups>
+    </groups>
+    <test name="DellFeatures" duration-ms="138553" started-at="2017-10-15T02:03:41Z" finished-at="2017-10-15T02:06:00Z">
+      <class name="Test.TestSearchOption">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="10186" started-at="2017-10-14T22:04:04Z" finished-at="2017-10-14T22:04:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_1()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_1" duration-ms="2199" started-at="2017-10-14T22:04:14Z" finished-at="2017-10-14T22:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="305" started-at="2017-10-14T22:04:16Z" finished-at="2017-10-14T22:04:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="13693" started-at="2017-10-14T22:04:17Z" finished-at="2017-10-14T22:04:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_2()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_2" duration-ms="2161" started-at="2017-10-14T22:04:30Z" finished-at="2017-10-14T22:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="238" started-at="2017-10-14T22:04:32Z" finished-at="2017-10-14T22:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="8877" started-at="2017-10-14T22:04:33Z" finished-at="2017-10-14T22:04:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_3()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_3" duration-ms="2150" started-at="2017-10-14T22:04:42Z" finished-at="2017-10-14T22:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="2134" started-at="2017-10-14T22:04:44Z" finished-at="2017-10-14T22:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="8960" started-at="2017-10-14T22:04:46Z" finished-at="2017-10-14T22:04:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_4()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_4" duration-ms="2170" started-at="2017-10-14T22:04:55Z" finished-at="2017-10-14T22:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="243" started-at="2017-10-14T22:04:57Z" finished-at="2017-10-14T22:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="8616" started-at="2017-10-14T22:04:57Z" finished-at="2017-10-14T22:05:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_5()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_5" duration-ms="2155" started-at="2017-10-14T22:05:06Z" finished-at="2017-10-14T22:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="2165" started-at="2017-10-14T22:05:08Z" finished-at="2017-10-14T22:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="32711" started-at="2017-10-14T22:05:10Z" finished-at="2017-10-14T22:05:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_6()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_6" duration-ms="2204" started-at="2017-10-14T22:05:43Z" finished-at="2017-10-14T22:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="277" started-at="2017-10-14T22:05:45Z" finished-at="2017-10-14T22:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestSearchOption@60addb54]" name="setUp" is-config="true" duration-ms="12025" started-at="2017-10-14T22:05:45Z" finished-at="2017-10-14T22:05:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFeatures_7()[pri:0, instance:Test.TestSearchOption@60addb54]" name="SearchFeatures_7" duration-ms="2152" started-at="2017-10-14T22:05:57Z" finished-at="2017-10-14T22:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFeatures_7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestSearchOption@60addb54]" name="tearDown" is-config="true" duration-ms="285" started-at="2017-10-14T22:06:00Z" finished-at="2017-10-14T22:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestSearchOption -->
+      <class name="Test.TestHomePageFea">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestHomePageFea@1e67b872]" name="setUp" is-config="true" duration-ms="16759" started-at="2017-10-14T22:03:41Z" finished-at="2017-10-14T22:03:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://www.dell.com/en-us/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginFeatures()[pri:0, instance:Test.TestHomePageFea@1e67b872]" name="LoginFeatures" duration-ms="3655" started-at="2017-10-14T22:03:58Z" finished-at="2017-10-14T22:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFeatures -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestHomePageFea@1e67b872]" name="tearDown" is-config="true" duration-ms="2195" started-at="2017-10-14T22:04:02Z" finished-at="2017-10-14T22:04:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestHomePageFea -->
+    </test> <!-- DellFeatures -->
+  </suite> <!-- Dell -->
+</testng-results>
